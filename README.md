@@ -1,6 +1,6 @@
 # cs640GroupProject
 
-SCC configuration that required:
+SCC configuration that is required:
 - 1 GPU
 - 8.9 core
 
